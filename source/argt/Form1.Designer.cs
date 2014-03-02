@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.BitVal = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.LoLiScale = new System.Windows.Forms.TextBox();
+            this.UpLiScale = new System.Windows.Forms.TextBox();
             this.qvant = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.Resultt = new System.Windows.Forms.TextBox();
             this.Calc = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -47,22 +47,22 @@
             this.BitVal.Name = "BitVal";
             this.BitVal.Size = new System.Drawing.Size(100, 20);
             this.BitVal.TabIndex = 0;
-            this.BitVal.Text = "54";
-            this.BitVal.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.BitVal.TextChanged += new System.EventHandler(this.label1_Click);
+            this.BitVal.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
-            // textBox2
+            // LoLiScale
             // 
-            this.textBox2.Location = new System.Drawing.Point(12, 39);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 1;
+            this.LoLiScale.Location = new System.Drawing.Point(12, 39);
+            this.LoLiScale.Name = "LoLiScale";
+            this.LoLiScale.Size = new System.Drawing.Size(100, 20);
+            this.LoLiScale.TabIndex = 1;
             // 
-            // textBox3
+            // UpLiScale
             // 
-            this.textBox3.Location = new System.Drawing.Point(12, 64);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 2;
+            this.UpLiScale.Location = new System.Drawing.Point(12, 64);
+            this.UpLiScale.Name = "UpLiScale";
+            this.UpLiScale.Size = new System.Drawing.Size(100, 20);
+            this.UpLiScale.TabIndex = 2;
             // 
             // qvant
             // 
@@ -71,12 +71,12 @@
             this.qvant.Size = new System.Drawing.Size(100, 20);
             this.qvant.TabIndex = 3;
             // 
-            // textBox5
+            // Resultt
             // 
-            this.textBox5.Location = new System.Drawing.Point(12, 116);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 20);
-            this.textBox5.TabIndex = 4;
+            this.Resultt.Location = new System.Drawing.Point(12, 116);
+            this.Resultt.Name = "Resultt";
+            this.Resultt.Size = new System.Drawing.Size(100, 20);
+            this.Resultt.TabIndex = 4;
             // 
             // Calc
             // 
@@ -140,6 +140,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(346, 180);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -147,13 +148,15 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Calc);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.Resultt);
             this.Controls.Add(this.qvant);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.UpLiScale);
+            this.Controls.Add(this.LoLiScale);
             this.Controls.Add(this.BitVal);
+            this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Code Format";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -163,10 +166,10 @@
         #endregion
 
         private System.Windows.Forms.TextBox BitVal;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox LoLiScale;
+        private System.Windows.Forms.TextBox UpLiScale;
         private System.Windows.Forms.TextBox qvant;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox Resultt;
         private System.Windows.Forms.Button Calc;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
