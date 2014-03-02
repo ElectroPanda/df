@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\bin\Debug\argt.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\bin\Debug\argt.exe
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\bin\Debug\argt.pdb
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.exe
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.pdb
+c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.Form1.resources
