@@ -6,3 +6,4 @@ c:\users\admin\documents\visual studio 2013\Projects\argt\argt\bin\Debug\argt.pd
 c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.exe
 c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.pdb
 c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.Form1.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.csprojResolveAssemblyReference.cache

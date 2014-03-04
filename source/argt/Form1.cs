@@ -22,8 +22,12 @@ namespace argt
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            string ver;
             string[] far;
 
+
+            ver = "v. 0.2";
+            label6.Text = ver;
             far = Environment.GetCommandLineArgs();
             //BitVal.Text = ""+far.Length;
             stArr fae = new stArr(far);
@@ -116,6 +120,16 @@ namespace argt
         }
 
         private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
         {
 
         }
