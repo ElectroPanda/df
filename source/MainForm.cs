@@ -12,21 +12,21 @@ using argt;
 
 namespace argt
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
             string ver;
             string[] far;
 
 
-            ver = "v. 0.2";
+            ver = "v. 0.2.1 SharpDevelop 3";
             label6.Text = ver;
             far = Environment.GetCommandLineArgs();
             //BitVal.Text = ""+far.Length;
