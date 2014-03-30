@@ -26,7 +26,7 @@ namespace argt
             string[] far;
 
 
-            ver = "v. 0.2.1 SharpDevelop 3.2.1 Build";
+            ver = "v. 0.2.1 SharpDevelop 3.2.1 Build by ElectroPanda";
             label6.Text = ver;
             far = Environment.GetCommandLineArgs();
             //BitVal.Text = ""+far.Length;

@@ -5,3 +5,10 @@ E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\
 E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\bin\Debug\df2.pdb
 E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\df2.exe
 E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\df2.pdb
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\bin\Debug\df2.exe
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\bin\Debug\df2.pdb
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\argt.MainForm.resources
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.csproj.GenerateResource.Cache
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.exe
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.pdb
