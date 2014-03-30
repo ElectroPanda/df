@@ -59,6 +59,8 @@
         	this.LoLiScale.Name = "LoLiScale";
         	this.LoLiScale.Size = new System.Drawing.Size(100, 20);
         	this.LoLiScale.TabIndex = 1;
+        	this.LoLiScale.TextChanged += new System.EventHandler(this.dfg);
+        	this.LoLiScale.Leave += new System.EventHandler(this.erte);
         	// 
         	// UpLiScale
         	// 
@@ -66,6 +68,7 @@
         	this.UpLiScale.Name = "UpLiScale";
         	this.UpLiScale.Size = new System.Drawing.Size(100, 20);
         	this.UpLiScale.TabIndex = 2;
+        	this.UpLiScale.Leave += new System.EventHandler(this.sgdh);
         	// 
         	// qvant
         	// 
@@ -73,6 +76,7 @@
         	this.qvant.Name = "qvant";
         	this.qvant.Size = new System.Drawing.Size(100, 20);
         	this.qvant.TabIndex = 3;
+        	this.qvant.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
         	// 
         	// Resultt
         	// 
