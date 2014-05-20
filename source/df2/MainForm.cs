@@ -164,5 +164,10 @@ namespace argt
         	Calc.Enabled=true;
         	qvant.Text="65536";
         }
+        
+        void Button1Click(object sender, EventArgs e)
+        {
+        	
+        }
     }
 }

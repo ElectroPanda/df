@@ -21,3 +21,13 @@ F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\Ge
 F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\GenerateResource.write.1.tlog
 F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\df2.exe
 F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\df2.pdb
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\bin\Debug\df2.exe.config
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\bin\Debug\df2.exe
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\bin\Debug\df2.pdb
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\argt.MainForm.resources
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.exe
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.pdb
+C:\Documents and Settings\Administrаtor\Мои документы\GitHub\df\source\df2\obj\x86\Debug\GenerateResource.read.4.tlog
