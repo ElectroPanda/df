@@ -12,31 +12,36 @@ using argt;
 
 namespace argt
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
             
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void MainForm_Load(object sender, EventArgs e)
         {
             string ver;
             string[] far;
 
 
-            ver = "v. 0.2";
+            ver = "v. 0.3 (SharpDevelop 4.4)";
             label6.Text = ver;
+            
             far = Environment.GetCommandLineArgs();
-            //BitVal.Text = ""+far.Length;
             stArr fae = new stArr(far);
-            if (far.Length > 2)
+            
+            if (far.Length > 2) //Заполнение текстовых полей формы аргументами командной строки
             {
                 BitVal.Text = far[1];
                 if (far.Length > 2) { LoLiScale.Text = far[2]; }
                 if (far.Length > 3) { UpLiScale.Text = far[3];}
                 if (far.Length > 4) { qvant.Text = far[4]; }
+            }
+            else
+            {
+            	Calc.Enabled=false;
             }
 
             //Resultt.Text = far.Length + "";
@@ -55,10 +60,10 @@ namespace argt
 
 
                     obQ.CalcEval();
-                    Resultt.Text = obQ.sRes;
+                    
                     UpLiScale.Text = obQ.iRend + "";
                     qvant.Text = obQ.iCodRange+"";
-
+                    Resultt.Text = obQ.sRes;
                     break;
 
                 case 4:
@@ -66,8 +71,10 @@ namespace argt
 
 
                     obA.CalcEval();
-                    Resultt.Text = obA.sRes;
+                    
                     qvant.Text = obA.iCodRange + "";
+                    Resultt.Text = obA.sRes;
+                    
                     break;
 
                 case 5:
@@ -132,6 +139,30 @@ namespace argt
         private void label6_Click(object sender, EventArgs e)
         {
 
+        }
+        
+        void ef(object sender, KeyEventArgs e)
+        {
+        	//Calc.Enabled=true;
+        	//if (UpLiScale.Text=="" & LoLiScale.Text!="") {UpLiScale.Text=Convert.ToString(-1*(Convert.ToSingle(LoLiScale.Text)));}
+        }
+        
+        void dfg(object sender, EventArgs e)
+        {
+        	//Calc.Enabled=true;
+        	//if (UpLiScale.Text=="" & LoLiScale.Text!="") {UpLiScale.Text=Convert.ToString(-1*(Convert.ToSingle(LoLiScale.Text)));}
+        }
+        
+        void erte(object sender, EventArgs e)
+        {
+        	
+        	if (UpLiScale.Text=="" & LoLiScale.Text!="") {UpLiScale.Text=Convert.ToString(-1*(Convert.ToSingle(LoLiScale.Text)));}
+        }
+        
+        void sgdh(object sender, EventArgs e)
+        {
+        	Calc.Enabled=true;
+        	qvant.Text="65536";
         }
     }
 }

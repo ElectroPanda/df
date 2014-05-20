@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "df2", "df2\df2.csproj", "{A23BBBED-DCD7-43C7-8630-FBA7876D960A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23BBBED-DCD7-43C7-8630-FBA7876D960A}.Debug|x86.Build.0 = Debug|x86
+		{A23BBBED-DCD7-43C7-8630-FBA7876D960A}.Debug|x86.ActiveCfg = Debug|x86
+		{A23BBBED-DCD7-43C7-8630-FBA7876D960A}.Release|x86.Build.0 = Release|x86
+		{A23BBBED-DCD7-43C7-8630-FBA7876D960A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

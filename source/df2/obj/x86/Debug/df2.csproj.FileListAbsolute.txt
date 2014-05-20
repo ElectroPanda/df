@@ -1,0 +1,23 @@
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\argt.MainForm.resources
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\df2.csproj.GenerateResource.Cache
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\bin\Debug\df2.exe
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\bin\Debug\df2.pdb
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\df2.exe
+E:\Documents and Settings\Admin\Мои документы\SharpDevelop Projects\df2\df2\obj\x86\Debug\df2.pdb
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\bin\Debug\df2.exe
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\bin\Debug\df2.pdb
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\argt.MainForm.resources
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.csproj.GenerateResource.Cache
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.exe
+E:\Documents and Settings\Admin\Мои документы\GitHub\df\source\df2\obj\x86\Debug\df2.pdb
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\bin\Debug\df2.exe.config
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\bin\Debug\df2.exe
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\bin\Debug\df2.pdb
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\argt.MainForm.resources
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\df2.exe
+F:\df-SharpDevelop3Master (2)\df-SharpDevelop3Master\source\df2\obj\x86\Debug\df2.pdb
