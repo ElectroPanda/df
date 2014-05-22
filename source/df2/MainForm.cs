@@ -26,7 +26,7 @@ namespace argt
             string[] far;
 
 
-            ver = "v. 0.3 (SharpDevelop 4.4)";
+            ver = "v. 0.3.1 (SharpDevelop 4.4)";
             label6.Text = ver;
             
             far = Environment.GetCommandLineArgs();
@@ -116,6 +116,7 @@ namespace argt
             Resultt.Text = obU.sRes + "";
         }
 
+        
         private void label1_Click(object sender, EventArgs e)
         {
 
@@ -162,11 +163,21 @@ namespace argt
         void sgdh(object sender, EventArgs e)
         {
         	Calc.Enabled=true;
+        	button1.Enabled=true;
+        	button2.Enabled=true;
         	qvant.Text="65536";
         }
         
         void Button1Click(object sender, EventArgs e)
         {
+        	//Заморозка
+        	Calc.Enabled=false;
+        	BitVal.Enabled=false;
+        	LoLiScale.Enabled=false;
+        	UpLiScale.Enabled=false;
+        	qvant.Enabled=false;
+        	Resultt.Enabled=false;
+        	button1.Enabled=false;
         	
         }
     }

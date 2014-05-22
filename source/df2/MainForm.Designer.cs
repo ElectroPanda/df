@@ -169,18 +169,16 @@
         	// 
         	// button1
         	// 
-        	this.button1.Enabled = false;
         	this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
         	this.button1.Location = new System.Drawing.Point(302, 141);
         	this.button1.Name = "button1";
         	this.button1.Size = new System.Drawing.Size(23, 23);
-        	this.button1.TabIndex = 1;
+        	this.button1.TabIndex = 13;
         	this.button1.UseVisualStyleBackColor = true;
         	this.button1.Click += new System.EventHandler(this.Button1Click);
         	// 
         	// button2
         	// 
-        	this.button2.Enabled = false;
         	this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
         	this.button2.Location = new System.Drawing.Point(273, 141);
         	this.button2.Name = "button2";
@@ -193,7 +191,7 @@
         	this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
         	this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
         	this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-        	this.ClientSize = new System.Drawing.Size(346, 203);
+        	this.ClientSize = new System.Drawing.Size(333, 203);
         	this.Controls.Add(this.button2);
         	this.Controls.Add(this.button1);
         	this.Controls.Add(this.panel1);
