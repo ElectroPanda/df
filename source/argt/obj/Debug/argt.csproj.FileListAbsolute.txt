@@ -7,3 +7,12 @@ c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.ex
 c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.pdb
 c:\users\admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.Form1.resources
 C:\Users\Admin\documents\visual studio 2013\Projects\argt\argt\obj\Debug\argt.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\bin\Debug\argt.exe.config
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\bin\Debug\argt.exe
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\bin\Debug\argt.pdb
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\obj\Debug\argt.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\obj\Debug\argt.Form1.resources
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\obj\Debug\argt.Properties.Resources.resources
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\obj\Debug\argt.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\obj\Debug\argt.exe
+C:\Users\Admin\Documents\EP\GitHub\df\source\argt\obj\Debug\argt.pdb
