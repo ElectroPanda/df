@@ -180,5 +180,10 @@ namespace argt
         	button1.Enabled=false;
         	
         }
+        
+        void Label7Click(object sender, EventArgs e)
+        {
+        	
+        }
     }
 }
